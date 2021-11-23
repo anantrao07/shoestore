@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_with_existing_account">Login With Existing Account</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="save_shoe_button_text">Save Shoe</string>
+    <string name="cancel_shoe_button_text">Cancel Shoe</string>
+    <string name="shoe_details_text_view">Shoe Details</string>
+    <string name="logout_btn_text">Logout</string>
+    <string name="instructions_fragment_text">Instructions Fragment</string>
+    <string name="navigate_to_instructions_btn_text">Navigate to Instructions</string>
+    <string name="navigate_to_shoe_list_btn_text">Navigate to Shoe List Fragment</string>
 </resources>

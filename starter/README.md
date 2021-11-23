@@ -23,7 +23,7 @@ Open the starter project in Android Studio
 3. Add the safe-arg plugin to the main and app build.gradle file
 
 4. Create a new navigation xml file
-
+ Login > Welcome > Instructions > shoeList > Shoe Detail screen      
 5. Create a new Login destination.
 
    * Include email and password labels 
